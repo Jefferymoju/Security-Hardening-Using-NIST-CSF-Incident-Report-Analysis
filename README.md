@@ -18,8 +18,4 @@ To analyze and document a Distributed Denial of Service (DDoS) incident using th
 - Enhancing **incident response planning** and recovery procedures.  
 
 ## Files  
-- **Incident_Report.md** – Detailed breakdown of the DDoS attack and investigation.  
-- **NIST_CSF_Analysis.md** – Structured analysis mapped to the five CSF functions.  
-- **Firewall_Configuration.docx** – Documentation of updated firewall rules and policies.  
-- **Network_Logs_Summary.txt** – Extracts of key log entries used in analysis.  
-- **Reflection_Notes.md** – Lessons learned and recommendations for future improvements.  
+- [Incident Report](doc/Incident_report_analysis.docx)  
