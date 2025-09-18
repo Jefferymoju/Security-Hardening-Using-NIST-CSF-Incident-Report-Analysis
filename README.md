@@ -5,8 +5,7 @@ To analyze and document a Distributed Denial of Service (DDoS) incident using th
 
 ## Scope  
 - Investigated a **DDoS ICMP flood attack** that disrupted the organization’s internal network for two hours.  
-- Applied the **NIST CSF** functions: Identify, Protect, Detect, Respond, Recover.  
-- Assessed misconfigured firewall settings and network vulnerabilities that enabled the attack.  
+- Applied the **NIST CSF** functions: Identify, Protect, Detect, Respond, Recover.    
 - Recommended improvements to network monitoring, access control, and incident response planning.  
 
 ## Tools and Methods    
